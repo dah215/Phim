@@ -1,0 +1,56 @@
+[
+    {
+        "iconUrl": "https://cdn.passes.com/profile/media/1318bbc5-a06c-419d-9615-6582d2a69ed1/profile-image.jpeg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dah215/Phim",
+        "fileSize": 10175,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "duongah"
+        ],
+        "tvTypes": [
+            "Phimmoichill"
+        ],
+        "version": 1,
+        "internalName": "PhimmoichillProvider",
+        "url": "https://github.com/dah215/Phim/raw/refs/heads/main/PhimmoichillProvider.cs3",
+        "name": "PhinmoichillProvider"
+    },
+    {
+    "iconUrl": "https://animehay.moe/themes/img/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dah215/Phim",
+        "fileSize": 13175,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "duongah"
+        ],
+        "tvTypes": [
+            "AnimeHay"
+        ],
+        "version": 1,
+        "internalName": "AnimeHayProvider",
+        "url": "https://github.com/dah215/Phim/raw/refs/heads/main/AnimeHayProvider.cs3",
+        "name": "AnimeHayProvider"
+        },
+        {
+            "iconUrl": "https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D13114264W10000H2826/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/nfsw-not-safe-for-work-sticker.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dah215/Phim",
+        "fileSize": 12175,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "duongah"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "NsfwProvider",
+        "url": "https://github.com/dah215/Phim/raw/refs/heads/main/NsfwProvider.cs3",
+        "name": "NsfwProvider"
+        }
+]
