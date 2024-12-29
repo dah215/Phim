@@ -52,5 +52,24 @@
         "internalName": "NsfwProvider",
         "url": "https://github.com/dah215/Phim/raw/refs/heads/main/NsfwProvider.cs3",
         "name": "NsfwProvider"
+        },
+        {
+            "iconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAXVBMVEVHcEwbGxsaGhoZGRkeHh5WVlYbGxsTExMdHR0eHh4dHR0UFBT///+NjY1SUlIdHR3///8CAgLDw8Oen5739/dKSkqurq48PDyHh4doaGjq6urf3999fX3X19csLCyFd97XAAAAD3RSTlMAYDLCGP3e/uxBhoYyhsJ+r/jSAAABMklEQVQokV2TWYKEIAxEbRVDO0sSZHHt+x9zggrC5E+eKYoiNE2q9qvTiOp3bJv/9dKwOP4oBBfgVaF+QETHh2eAMNt56B/2FiQtlmgN6FbFiO+KIewkZZwhCpBpj1exiTR4ov0jn5fycDExtFnveSWaRBeH0+fdCLssr8sm0iZCjJ71zZxoWtrm/TMpiCtazo5pyynq+fiHOyG2zZggKKKFmVHxxXBsOsytB4mq8ZwWurTlSW08y5ahbrCAKsIjQywgz5GRLzqzbDQkuobDA7OhIBEcZFezQzaUjnIlS5OhDMccAizeT5ICzzZt2ub4EJg3+zg948vBS5Ep4au4shiugocN1WXDdY+p+nJM2FSsGiJYqsbMztGU8JYMy9GMnmEz8x2croc61vdPfA66K57DHyIkJg8RYC6KAAAAAElFTkSuQmCC",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dah215/Phim",
+        "fileSize": 12575,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "duongah"
+        ],
+        "tvTypes": [
+            "NSFW"
+                   
+        ],
+        "version": 1,
+        "internalName": "HanimeProvider",
+        "url": "https://github.com/dah215/Phim/raw/refs/heads/main/Hanime.cs3",
+        "name": "HanimeProvider"
         }
 ]
