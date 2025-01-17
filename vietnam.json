@@ -71,5 +71,23 @@
         "internalName": "HanimeProvider",
         "url": "https://github.com/dah215/Phim/raw/refs/heads/main/Hanime.cs3",
         "name": "HanimeProvider"
+        },
+        {
+        "iconUrl": "https://phim.nguonc.com/public/images/Logo/logonc.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dah215/Phim",
+        "fileSize": 107375,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "duongah"
+        ],
+        "tvTypes": [
+            "NguonC"
+        ],
+        "version": 1,
+        "internalName": "NguonCProvider",
+        "url": "https://github.com/dah215/Phim/raw/refs/heads/main/NguonC.cs3",
+        "name": "NguonCProvider"
         }
 ]
