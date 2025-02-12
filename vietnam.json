@@ -52,5 +52,23 @@
         "internalName": "NguonCProvider",
         "url": "https://github.com/dah215/Phim/raw/refs/heads/main/NguonC.cs3",
         "name": "NguonCProvider"
-        }
+        },
+        {
+        "iconUrl": "https://zorgle.co.uk/wp-content/uploads/2024/06/Learn-how-to-add-a-link-to-your-website.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dah215/Phim",
+        "fileSize": 10175,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "duongah"
+        ],
+        "tvTypes": [
+            "LinkAdd"
+        ],
+        "version": 1,
+        "internalName": "LinkaddProvider",
+        "url": "https://github.com/dah215/Phim/raw/refs/heads/main/Linkadd.cs3",
+        "name": "LinkaddProvider"
+    }
 ]
