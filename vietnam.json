@@ -16,24 +16,6 @@
         "internalName": "PhimmoichillProvider",
         "url": "https://github.com/dah215/Phim/raw/refs/heads/main/PhimmoichillProvider.cs3",
         "name": "PhinmoichillProvider"
-    },
-    {
-    "iconUrl": "https://animehay.moe/themes/img/logo.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/dah215/Phim",
-        "fileSize": 13175,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "duongah"
-        ],
-        "tvTypes": [
-            "AnimeHay"
-        ],
-        "version": 1,
-        "internalName": "AnimeHayProvider",
-        "url": "https://github.com/dah215/Phim/raw/refs/heads/main/AnimeHayProvider.cs3",
-        "name": "AnimeHayProvider"
         },
         {
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/logonc.png",
