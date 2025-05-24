@@ -34,5 +34,23 @@
         "internalName": "NguonCProvider",
         "url": "https://github.com/dah215/Phim/raw/refs/heads/main/NguonC.cs3",
         "name": "NguonCProvider"
+        },
+        {
+        "iconUrl": "https://cdn.animevietsub.lol/data/logo/logoz.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dah215/Phim",
+        "fileSize": 14875,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "duongah"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "AnimeVietSub",
+        "url": "https://github.com/dah215/Phim/raw/refs/heads/main/AnimeVietsubProvider.cs3",
+        "name": "AnimeVietSubProvider"
     }
 ]
