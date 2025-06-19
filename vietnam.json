@@ -36,7 +36,7 @@
         "name": "NguonCProvider"
     },
     {
-        "iconUrl": "https://cdn.animevietsub.lol/data/logo/logoz.png",
+        "iconUrl": "https://cdn.animevietsub.lol/data/logo/logoz.png"
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/dah215/Phim",
         "fileSize": 14575,
@@ -52,5 +52,23 @@
         "internalName": "AnimeVsub",
         "url": "https://github.com/dah215/Phim/raw/refs/heads/main/AnimeVietsub.cs3",
         "name": "AnimeVsub"
+      },
+      {
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrSAo5Qkn-C3gCgIQ6ygmhu-kfkoxEXnfgjQ&s",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dah215/Phim",
+        "fileSize": 14575,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "duongah"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SDFilm",
+        "url": "https://github.com/dah215/Phim/raw/refs/heads/main/SDFilm.cs3",
+        "name": "SDFilm"
       }
 ]
