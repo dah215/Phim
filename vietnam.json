@@ -36,7 +36,7 @@
         "name": "NguonCProvider"
     },
     {
-        "iconUrl": "https://cdn.animevietsub.lol/data/logo/logoz.png"
+        "iconUrl": "https://cdn.animevietsub.lol/data/logo/logoz.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/dah215/Phim",
         "fileSize": 14575,
