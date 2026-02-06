@@ -1,13 +1,8 @@
 {
-  "name": "Gayxx",
-  "description": "Arabic cartoons provider",
-  "manifestVersion": 1,
-  "plugins": [
-    {
-      "name": "DimaToon",
-      "description": "Arabic cartoons",
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/Tuangayxx/GayXXX/refs/heads/builds/plugins.json"
-    }
-  ]
+    "name": "Gayxx",
+    "description": "Kho Lưu trữ phim của chọc",
+    "manifestVersion": 99,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Tuangayxx/GayXXX/refs/heads/builds/plugins.json"
+    ]
 }
