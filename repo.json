@@ -1,5 +1,5 @@
 {
-  "name": "DimaToon Repo",
+  "name": "Gayxx",
   "description": "Arabic cartoons provider",
   "manifestVersion": 1,
   "plugins": [
@@ -7,7 +7,7 @@
       "name": "DimaToon",
       "description": "Arabic cartoons",
       "version": 1,
-      "url": "plugins/DimaToonExtension.jar"
+      "url": "https://raw.githubusercontent.com/Tuangayxx/GayXXX/refs/heads/builds/plugins.json"
     }
   ]
 }
